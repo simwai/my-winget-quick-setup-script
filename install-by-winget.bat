@@ -2,8 +2,6 @@
 setlocal
 
 REM Run this as Administrator for machine-wide installs.
-REM -e = exact ID match
-REM --silent = silent install when supported
 
 echo === Installing winget packages ===
 
