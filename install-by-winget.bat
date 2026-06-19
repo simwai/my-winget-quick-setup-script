@@ -34,6 +34,7 @@ winget install -e --id mvdan.shfmt --source winget --silent --accept-source-agre
 winget install -e --id AgileBits.1Password --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Canonical.Ubuntu --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.WindowsTerminal.Preview --source winget --silent --accept-source-agreements --accept-package-agreements
+winget install -e --id jasongin.nvs --source winget --silent --accept-source-agreements --accept-package-agreements
 
 echo === Installing Microsoft Store packages ===
 
