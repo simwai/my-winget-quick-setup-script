@@ -11,7 +11,6 @@ winget install -e --id Git.Git --source winget --silent --accept-source-agreemen
 winget install -e --id CrystalRich.LockHunter --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.PowerShell --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id GitHub.cli --source winget --silent --accept-source-agreements --accept-package-agreements
-winget install -e --id GoLang.Go --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Google.GoogleDrive --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id SoftPerfect.NetworkScanner --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Oracle.JDK.26 --source winget --silent --accept-source-agreements --accept-package-agreements
@@ -35,6 +34,7 @@ winget install -e --id AgileBits.1Password --source winget --silent --accept-sou
 winget install -e --id Canonical.Ubuntu --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id Microsoft.WindowsTerminal.Preview --source winget --silent --accept-source-agreements --accept-package-agreements
 winget install -e --id jasongin.nvs --source winget --silent --accept-source-agreements --accept-package-agreements
+winget install -e --id rsteube.Carapace --source winget --silent --accept-source-agreements --accept-package-agreements
 
 echo === Installing Microsoft Store packages ===
 
